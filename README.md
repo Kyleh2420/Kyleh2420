@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Kyle, a student studyiing Electrical Engineering. I have a ton of projects up my sleeve, and I hope to complete them all in the coming months.
 <!--
 **Kyleh2420/Kyleh2420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
